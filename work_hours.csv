@@ -1,0 +1,17 @@
+employee_id;employee_name;date;project_id;task_id;worked;description
+101;John Smith;2023-09-01;001;001-001;16200;Implemented user authentication system
+102;Sarah Brown;2023-09-05;002;002-001;7200;Fixed critical bug in the payment processing
+103;Mark Johnson;2023-09-10;003;003-001;18000;Added new search functionality to the website
+104;Emily White;2023-09-14;004;004-001;5400;Reviewed and provided feedback on PR #123
+101;John Smith;2023-09-15;001;001-002;10800;Resolved issue with data syncing
+102;Sarah Brown;2023-09-20;002;002-002;14400;Implemented product recommendation algorithm
+103;Mark Johnson;2023-09-25;003;003-002;9000;Updated API documentation
+104;Emily White;2023-09-30;004;004-002;7200;Addressed UI bug on the user dashboard
+101;John Smith;2023-10-05;001;001-003;12600;Added shopping cart functionality
+102;Sarah Brown;2023-10-10;002;002-003;3600;Reviewed and merged PR #126
+103;Mark Johnson;2023-10-15;003;003-003;7200;Conducted performance testing
+104;Emily White;2023-10-20;004;004-003;16200;Implemented new user profile feature
+101;John Smith;2023-10-25;001;001-004;10800;Code refactoring and optimization
+102;Sarah Brown;2023-10-30;002;002-004;9000;Integration testing for payment gateway
+103;Mark Johnson;2023-11-05;003;003-004;14400;Database schema updates
+104;Emily White;2023-11-10;004;004-004;3600;Meetings and project planning

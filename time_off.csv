@@ -1,0 +1,21 @@
+﻿employee_id;employee_name;date_start;date_end;reason
+101;John Smith;2023-09-01;2023-09-05;Vacation
+102;Sarah Brown;2023-09-05;2023-09-06;Sick Leave
+103;Mark Johnson;2023-09-10;2023-09-12;Personal Day
+104;Emily White;2023-09-14;2023-09-15;Family Emergency
+105;David Lee;2023-09-22;2023-09-26;Vacation
+106;Lisa Davis;2023-09-25;2023-09-26;Sick Leave
+107;Michael Wilson;2023-10-02;2023-10-04;Conference
+108;Jennifer Adams;2023-10-06;2023-10-15;Maternity Leave
+109;Chris Turner;2023-10-12;2023-10-14;Bereavement
+110;Jessica Hall;2023-10-18;2023-10-22;Vacation
+111;Robert Garcia;2023-10-21;2023-10-22;Personal Day
+112;Mary Harris;2023-10-28;2023-10-30;Sick Leave
+113;William Clark;2023-11-05;2023-11-07;Vacation
+114;Laura Martinez;2023-11-11;2023-11-11;Public Holiday
+115;Daniel White;2023-11-15;2023-11-20;Family Vacation
+116;Susan Moore;2023-11-20;2023-11-21;Sick Leave
+117;Joseph Anderson;2023-11-27;2023-11-29;Conference
+118;Linda Baker;2023-12-03;2023-12-10;Maternity Leave
+119;Richard Turner;2023-12-10;2023-12-12;Bereavement
+120;Amanda King;2023-12-15;2023-12-16;Personal Day
